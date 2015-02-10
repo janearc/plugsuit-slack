@@ -1,0 +1,31 @@
+{
+  "name": "plugsuit-slack",
+  "version": "0.0.1",
+  "description": "a port of plugsuit to the slack messaging platform",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janearc/plugsuit-slack.git"
+  },
+  "keywords": [
+    "slack",
+    "plugsuit"
+  ],
+  "dependencies": {
+    "plugsuit": "*",
+    "mocha": "*",
+    "chai": "*",
+    "xact-id-tiny": "*"
+  },
+  "author": "Jane Arc <jane.arc@gsa.gov> (https://github.com/janearc/)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/janearc/plugsuit-slack/issues"
+  },
+  "homepage": "https://github.com/janearc/plugsuit-slack"
+}
